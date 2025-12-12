@@ -1,0 +1,31 @@
+{
+  "brand": {
+    "name": "Atelier Cannelle",
+    "tagline": "plus qu’un dessert, un moment à partager"
+  },
+  "seo": {
+    "title": "Atelier Cannelle — Cinnamon Rolls maison en région parisienne",
+    "description": "Atelier Cannelle : cinnamon rolls maison, frais, moelleux et généreux. Coffrets gourmands, services événementiels et commandes artisanales en région parisienne. Une expérience chaleureuse et artisanale autour du cinnamon roll."
+  },
+  "hero": {
+    "headline": "Les Cinnamon Rolls par Atelier Cannelle",
+    "text": "Cinnamon rolls moelleux, faits maison, servis chauds. Une expérience gourmande et chaleureuse née en région parisienne.",
+    "backgroundImage": "fond-atelier.jpg",
+    "ctaPrimaryText": "Découvrir les Rolls",
+    "ctaPrimaryLink": "#menu",
+    "ctaSecondaryText": "Commande / réservation",
+    "ctaSecondaryLink": "#contact"
+  },
+  "hours": [
+    "Mercredi : 12h–00h",
+    "Dimanche : 15h–01h"
+  ],
+  "contact": {
+    "email": "contact@atelier-cannelle.com",
+    "region": "Région parisienne",
+    "instagramUrl": "https://www.instagram.com/atelier.cannelleoff",
+    "instagramLabel": "Instagram : @atelier.cannelleoff",
+    "tiktokUrl": "https://www.tiktok.com/@fatou.dibher",
+    "tiktokLabel": "TikTok : @fatou.dibher"
+  }
+}
